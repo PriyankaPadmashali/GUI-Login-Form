@@ -1,6 +1,5 @@
 GUI Login Form
 
-Overview
 This project is a simple and user-friendly GUI Login Form developed using Python Tkinter. It allows users to enter username and password and checks whether the entered details are correct.
 
 Features
